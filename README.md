@@ -1,3 +1,5 @@
+**Use HiCPlotter_new.py** that has been update for Python3.10 and correctd for indentatin errors. 
+
 #HiCPlotter: Visualization of Hi-C data with genomic datasets
 
 # About HiCPlotter
